@@ -1,7 +1,7 @@
 {
-  "name": "@ckeditor/strapi-plugin-ckeditor",
-  "version": "0.0.10",
-  "description": "CKEditor 5 custom field for Strapi.",
+  "name": "@melalj/strapi-plugin-ckeditor",
+  "version": "0.0.11",
+  "description": "CKEditor 5 custom field for Strapi (with full html support)",
   "strapi": {
     "name": "ckeditor",
     "description": "The rich text editor for every use case",
@@ -50,6 +50,8 @@
     "@ckeditor/ckeditor5-paragraph": "^40.0.0",
     "@ckeditor/ckeditor5-paste-from-office": "^40.0.0",
     "@ckeditor/ckeditor5-react": "^6.1.0",
+    "@ckeditor/ckeditor5-source-editing": "^40.0.0",
+    "@ckeditor/ckeditor5-html-support": "^40.0.0",
     "@ckeditor/ckeditor5-remove-format": "^40.0.0",
     "@ckeditor/ckeditor5-special-characters": "^40.0.0",
     "@ckeditor/ckeditor5-table": "^40.0.0",

@@ -1,4 +1,4 @@
-# CKEditor 5 custom field for Strapi
+# CKEditor 5 custom field for Strapi (with full html support)
 
 <img src="https://user-images.githubusercontent.com/156149/192792402-4bb1e040-6f8c-49be-af90-fd35fd3a4c66.png" alt="CKEditor 5 used inside Strapi. Article form consisting of a title, excerpt text, and content">
 
